@@ -1,0 +1,18 @@
+{
+  "name": "caixa-de-ferramentas",
+  "version": "1.0.0",
+  "description": "A toolbox web application",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.1.0"
+  }
+}
